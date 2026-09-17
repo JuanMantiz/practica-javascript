@@ -15,4 +15,4 @@ const medidas = {
 
 const nuevo = { ...product, ...medidas };
 
-console.log(nuevo);
+console.log(nuevo );
